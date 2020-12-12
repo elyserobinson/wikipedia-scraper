@@ -9,4 +9,4 @@ The scraper will go to a Wikipedia page, scrape the title, and follow a random l
 
 ### Creator
 
-Created by [Elyse Y. Robinson] (https://www.elyserobinson.dev). Founder of [NewsIn.IT] (https://www.newsin.it).
+Created by [Elyse Y. Robinson](https://www.elyserobinson.dev). Founder of [NewsIn.IT](https://www.newsin.it).
